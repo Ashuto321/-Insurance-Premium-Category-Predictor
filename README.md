@@ -1,5 +1,5 @@
 <h1 align="center">🛡️ Insurance Premium Category Predictor</h1>
- 
+  
 <p align="center">
   An end-to-end <strong>Machine Learning project</strong> that predicts insurance
   premium categories using a <strong>Random Forest model</strong>, deployed via
