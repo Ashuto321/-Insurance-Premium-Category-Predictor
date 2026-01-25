@@ -36,7 +36,7 @@ class UserInput(BaseModel):
     @feild_validator
     @classmethod
     def city_validate(cls, value: str):
-        
+        value = value.strip().title()        
     
     # now with these we have to make new features :
     #computed feild 1: bmi--------------------------------
