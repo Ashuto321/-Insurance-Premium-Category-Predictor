@@ -17,7 +17,6 @@
 <hr/>
 
 <h2>📌 Project Overview</h2>
-
 <p>
 Insurance premium determination depends on multiple factors such as age, income,
 occupation, lifestyle habits, and geographic location.
